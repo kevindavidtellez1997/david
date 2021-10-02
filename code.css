@@ -1,0 +1,162 @@
+.inici1{
+
+    background-image:url('https://png.pngtree.com/thumb_back/fw800/background/20190221/ourmid/pngtree-technology-background-technological-sense-science-fiction-modern-image_15117.jpg');
+}
+h1{
+
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    text-align:center;
+    color: #000000;
+    font-family: impact;
+    font-size: 46px;
+    letter-spacing: 12px;
+    text-shadow: -2px -2px 1px white, 2px 2px 1px white, -2px 2px 1px white, 2px -2px 1px white;
+}
+
+.header {
+    color: black;
+    font-size: 27px;
+    padding: 10px;
+   font-weight: 700;
+   margin-left: 25%;
+   font-size: 40px;
+
+}
+
+.btn{
+   width: 380px;
+   font-weight: 700!important;
+   background-color: blue!important;
+   border-style: solid!important;
+  border-color: white!important;
+  border-width: 5px!important;
+  margin-left: 100px;
+ 
+
+}
+
+.form-control   {
+   
+   margin-left: 100px!important;
+   
+   
+   
+ }
+
+ fieldset {
+    min-width: 0;
+    padding: 0;
+    margin: 0;
+    border: 0;
+    background-color: blue;
+    padding-bottom: 25px!important;
+     border-style: solid!important;
+  border-color: black!important;
+  border-width: 5px!important;
+  border-radius: 10px!important;
+}
+
+.bontond{
+   padding-top: 10px!important;
+}
+
+.navbar-expand{
+   background-color: #000000!important;
+   color: white;
+ }
+ 
+ a{
+    color: white!important;
+    font-weight: 700!important;
+    font-size:22px ;
+  }
+  p{
+    text-align:justify;
+    color: black;
+    font-size: 17px;
+    font-weight: 500;
+  }
+  
+  h5{
+    text-align:center;
+   color: black;
+   font-weight: 700;
+  
+  }
+
+  .buttoncta{
+    display: flex!important;
+    justify-content: center!important;
+  
+  }
+
+  .btn2{
+    font-size: 25px;
+    font-weight:700;
+    padding: 10px;
+    background-color: white!important;
+    color: black!important;
+    border-radius: 10px!important;
+  
+  }
+
+  .carruselm {
+   padding-top: 10px;
+  }
+
+  .servicios{
+    background-color: black;
+    color: white ;
+   }
+
+   .servicios1{
+    background-color: black!important;
+
+    
+   }
+h3{
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    text-align:center;
+    color: #000000;
+    font-family: impact;
+    font-size: 32px;
+    letter-spacing: 12px;
+    text-shadow: -2px -2px 1px white, 2px 2px 1px white, -2px 2px 1px white, 2px -2px 1px white;
+    font-weight: 700;
+    
+   }
+
+.img54{
+    text-align: center;
+    padding-bottom: 5%;
+    padding-top: 5%;
+  
+    
+   }
+
+   .imagenesb{
+  background-color: black;
+    color: white;
+   }
+   
+   h6{
+    color: white;
+    font-weight: 600;
+    font-size: 32px;
+      
+     }
+
+     .srvices2{
+      background-color: black!important;
+
+         }
+
+         .cont4{
+            display: flex;
+            justify-content: center;
+      
+               }
